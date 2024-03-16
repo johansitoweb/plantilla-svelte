@@ -1,3 +1,5 @@
+utiliza la plantilla y adactala a tu gusto.
+
 # svelte-go-template
 
 A simple Svelte based SPA app with a Go API server that can also embed and serve the HTML, JS, and CSS files. Handy for
